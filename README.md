@@ -28,8 +28,14 @@ The results are as followed
 
 ![results](https://raw.githubusercontent.com/Queach/bikesharing/main/resources/5b4abbf7b98d46987de09945465c14f0.png "results")
 
+![results](https://raw.githubusercontent.com/Queach/bikesharing/main/resources/fe0042d49b195b0ef5c7ad0b5e52813e.png "results")
+
+## Link to Tableau
+
 [link to story](https://public.tableau.com/app/profile/kyle.a.young/viz/Challenge_16387451799780/NYCCitiBike "link to story")
 
 ## Summary
 
-
+Most users are younger men who commute from home to work or school during weekdays. 
+Additional visualizations that could help in future analysis could be a visualization to show which types of bike are used the most (mountain, street bike, etc.) 
+and a visualization that shows a heat map for street data, showing which streets are used the most and why. Are these streets uphill? downhill? wide? important questions for bike riding.
